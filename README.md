@@ -11,7 +11,7 @@ Through the combination of comfortable form-factor and the lack of energy-hungry
 
 ## Slack Log
 
-@Sean McBeth
+**@Sean McBeth**
 I've had this idea for a while, and I'm interested in collaborating on it. It's basically a wearable, audio-only computer system, with augmented reality features.
 
 You'd have a hand gesture based interface, with large, virtual buttons around your body. A tracking camera on the back of your head would fix your position, and something like a Leap Motion on your chest would do the hand recognition.
@@ -42,7 +42,7 @@ One of the problems with current AR systems is that they are too invasive and bu
 
 There's also room to eventually iterate to a hooded cowl, from which perhaps a proper wave guide display could be hung. Hooded cowl could also incorporate brain waves sensing devices, with the potential to develop biofeedback applications like anxiety and blood pressure warnings.
 
-@jackalope
+**@jackalope**
 There's been some similar ui ideas with audio only based wearables; smart glasses they're usually called. Harry has some IBM glasses for prototyping.
 
 They generally use voice instead of gesture. So hooking up a magic leap to that might work.
@@ -51,27 +51,27 @@ So the parameters of defining a proof of concept here for this product is:
 Use audio cues in space to signal some kind of ui information which can be interacted with by gesture, right?
 I think getting a button in space that one presses to launch an app would fit the bill there right?
 
-@Sean McBeth
+**@Sean McBeth**
 Maybe a really simple app would be a button to your periphery that punching or tapping or something would then give you the weather and any calendar entries you have for the next X hours.
 
 As far as that proof of concept you mentioned, the hardware and software would be something I could put together in about a week or two.
 
-@jackalope
+**@jackalope**
 Yeah I think getting the proof of concept working would be a good start.
 What kind of deliverables were you hoping for from design on this?
 
-@Sean McBeth
+**@Sean McBeth**
 Short-term, a Website with concept description, a few design treatments for working up into tests, a project site for managing collaboration on the project. Longer term, a collection demos testing the designs, a start on a few apps, and maaaaaybe a Kickstarter?
 
-@lauren
+**@lauren**
 it would be fun to try that out as a drum circle type thing, maybe have a bongo or two you could play with your hand, with different percussion sounds to choose from. it could be really fun as more styles of gesture are picked up. i wonder how the abilities of using video recognition would compare to this type of tech https://mimugloves.com/#glover-feature
 
 image recognition could also be fun - being able to link different objects you choose to specific sounds when they're touched, shaken or pointed at
 
-@Sean McBeth
+**@Sean McBeth**
 yeah, that'd be really cool. A combination of music performance and dance.
 
-@m-ezekiel
+**@m-ezekiel**
 I have long dreamed of using behavioral biometrics for activity recognition supporting creative and self-directed learning contexts.  This is what I did for undergraduate research. (link-to-pdf)
 
 ## Links
