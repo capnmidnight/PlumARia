@@ -82,28 +82,28 @@ I have long dreamed of using behavioral biometrics for activity recognition supp
 ## Parts
 
  - Compute: TBD
-  - [CHUWI LarkBox](https://www.amazon.com/dp/B089QGYGP2)
-  - [Gmk NucBox](https://www.amazon.com/dp/B08KZNSR74)
-  - [Intel NUC 8](https://www.amazon.com/dp/B07GX67SBM?th=1)
-  - [Beelink U57](https://www.amazon.com/dp/B0872S365N)
-  - [LattePanda](https://www.amazon.com/dp/B01ID4HYE4)
-  - Android phone?
-  - iPhone?
+   - [CHUWI LarkBox](https://www.amazon.com/dp/B089QGYGP2)
+   - [Gmk NucBox](https://www.amazon.com/dp/B08KZNSR74)
+   - [Intel NUC 8](https://www.amazon.com/dp/B07GX67SBM?th=1)
+   - [Beelink U57](https://www.amazon.com/dp/B0872S365N)
+   - [LattePanda](https://www.amazon.com/dp/B01ID4HYE4)
+   - Android phone?
+   - iPhone?
  - Battery:
-  - TBD (the specific choice of compute system will change the battery requirements).
+   - TBD (the specific choice of compute system will change the battery requirements).
  - Positional Tracking:
-  - [Intel RealSense Tracking Camera T265](https://www.intelrealsense.com/tracking-camera-t265/).
-  - ARKit/ARCore?
+   - [Intel RealSense Tracking Camera T265](https://www.intelrealsense.com/tracking-camera-t265/).
+   - ARKit/ARCore?
  - Gesture Tracking: 
-  - [Leap Motion Controller](https://www.ultraleap.com/product/leap-motion-controller/)
-  - [Ultraleap Stereo IR 170](https://www.ultraleap.com/product/stereo-ir-170/).
+   - [Leap Motion Controller](https://www.ultraleap.com/product/leap-motion-controller/)
+   - [Ultraleap Stereo IR 170](https://www.ultraleap.com/product/stereo-ir-170/).
  - Audio Input/Output:
-  - 3.5mm headset
-  - Bluetooth headset
-  	- [AfterShokz OpenComm](https://www.amazon.com/dp/B08DW2SJCQ)
+   - 3.5mm headset
+   - Bluetooth headset
+     - [AfterShokz OpenComm](https://www.amazon.com/dp/B08DW2SJCQ)
  - GPS: 
-  - [G72](https://www.amazon.com/dp/B07SMRXSC8)
-  - [vk172](https://www.amazon.com/dp/B01MTU9KTF)
+   - [G72](https://www.amazon.com/dp/B07SMRXSC8)
+   - [vk172](https://www.amazon.com/dp/B01MTU9KTF)
  - Modem:
-  - [Verizon Wireless 4G LTE USB Modem](https://www.amazon.com/dp/B0069RXK9G)
-  - [ZTE MF833V](https://www.amazon.com/dp/B07XXBQPZL)
+   - [Verizon Wireless 4G LTE USB Modem](https://www.amazon.com/dp/B0069RXK9G)
+   - [ZTE MF833V](https://www.amazon.com/dp/B07XXBQPZL)
